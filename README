@@ -1,7 +1,7 @@
 Ejercicio 1 – Imagen personalizada
 Crea una imagen custom basada en alpine:3.20 que:
 1. Instale curl.
-
+![Texto alternativo](C:\Users\ADMIN\Pictures\Saved Pictures\Nueva carpeta\Parcial)
 2. Copie un archivo mensaje.txt (creado por usted en el host) al directorio
 /app dentro de la imagen.
 3. Defina como CMD la instrucción para mostrar el contenido del archivo al
